@@ -1,4 +1,4 @@
-package br.edu.fa7.playlist;
+package br.edu.fa7.smartmp3;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

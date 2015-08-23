@@ -1,4 +1,4 @@
-package br.edu.fa7.playlist;
+package br.edu.fa7.smartmp3;
 
 /**
  * Created by alan on 8/23/15.

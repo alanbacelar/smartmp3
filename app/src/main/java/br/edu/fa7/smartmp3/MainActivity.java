@@ -1,4 +1,4 @@
-package br.edu.fa7.playlist;
+package br.edu.fa7.smartmp3;
 
 import android.os.Bundle;
 import android.support.v4.app.FragmentManager;
